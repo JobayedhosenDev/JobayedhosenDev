@@ -69,8 +69,9 @@ Motto: "Transforming complex problems into elegant, automated solutions."
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JobayedhosenDev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobayedhosenDev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  ![GitHub Commits](https://img.shields.io/github/commit-activity/m/JobayedhosenDev/railcall-notion?style=for-the-badge&color=00F0FF&label=ACTIVE%20COMMITS)
+  ![GitHub License](https://img.shields.io/github/license/JobayedhosenDev/railcall-notion?style=for-the-badge&color=777BB4&label=LICENSE)
+  ![GitHub Code Size](https://img.shields.io/github/languages/code-size/JobayedhosenDev/railcall-notion?style=for-the-badge&color=339933&label=CODE%20SIZE)
 
 </div>
 
