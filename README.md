@@ -65,12 +65,12 @@ Motto: "Transforming complex problems into elegant, automated solutions."
 
 ---
 
-### 📊 GitHub Analytics & Performance
+### 📊 GitHub Overview & Activity
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JobayedhosenDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobayedhosenDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JobayedhosenDev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobayedhosenDev&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
@@ -78,7 +78,7 @@ Motto: "Transforming complex problems into elegant, automated solutions."
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JobayedhosenDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JobayedhosenDev&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
