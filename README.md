@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-headers/master/welcome/welcome_wave.gif" width="40px" /> Hi, I'm Jobayed Hosen! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%90%8B;I'm+Jobayed+Hosen+%F0%9F%9A%80;Software+%26+Automation+Developer+%F0%9F%9F%A2;Specialist+at+ZenIT+BD+%F0%9F%92%BB;Building+Next-Gen+Web+Apps+%26+AI+Workflows+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%90%8B;I'm+Jobayed+Hosen+%F0%9F%9A%80;Web+Design+%26+Workflow+Automation+%F0%9F%9F%A2;Specialist+at+ZenIT+BD+%F0%9F%92%BB;Crafting+Modern+Websites+%26+AI+Workflows+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,17 +20,17 @@
 
 ```yaml
 Name: Jobayed Hosen
-Role: Software & Workflow Automation Developer
+Role: Web Design & Workflow Automation Specialist
 Company: ZenIT BD
 Location: Bangladesh 🇧🇩
-Passions: Full-Stack Web Development, SaaS Systems, AI Workflow Automation
-Motto: "Transforming complex problems into elegant, automated solutions."
+Passions: Modern Web Design, UI/UX, SaaS Systems & Workflow Automations
+Motto: "Transforming ideas into beautiful web experiences and automated workflows."
 ```
 
-- 🔭 **Currently Working On:** Building high-performance SaaS platforms & AI-driven workflow engines.
-- 💼 **Company:** Software & Automation Specialist at **ZenIT BD**.
-- 🌱 **Learning & Innovating:** Advanced Microservices Architecture, Cloud Native Infrastructure & AI Agents.
-- ⚡ **Fun Fact:** I love optimizing backend routines and turning manual processes into 1-click automations!
+- 🔭 **Currently Working On:** Designing modern web interfaces & building AI-driven workflow automations.
+- 💼 **Company:** Web Design & Workflow Automation Specialist at **ZenIT BD**.
+- 🌱 **Learning & Innovating:** Advanced UI/UX, Web Design Systems & Autonomous AI Agents.
+- ⚡ **Fun Fact:** I love turning complex manual processes into elegant 1-click web automations!
 
 ---
 
@@ -38,7 +38,8 @@ Motto: "Transforming complex problems into elegant, automated solutions."
 
 <div align="left">
 
-#### 🌐 Frontend Development
+#### 🎨 Web Design & Frontend
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,7 +47,8 @@ Motto: "Transforming complex problems into elegant, automated solutions."
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E8?style=for-the-badge&logo=inertia&logoColor=white)
 
-#### ⚡ Backend & APIs
+#### ⚡ Workflow Automation & Backend
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -54,7 +56,7 @@ Motto: "Transforming complex problems into elegant, automated solutions."
 ![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=json&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🧰 Tools, DevOps & Governance
+#### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
